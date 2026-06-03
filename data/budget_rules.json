@@ -1,0 +1,27 @@
+{
+  "Makanan": {
+    "limit": 400,
+    "type": "need",
+    "description": "Food and drinks"
+  },
+  "Pengangkutan": {
+    "limit": 150,
+    "type": "need",
+    "description": "Transport (Grab, bus, petrol)"
+  },
+  "Hiburan": {
+    "limit": 100,
+    "type": "want",
+    "description": "Entertainment (cinema, games)"
+  },
+  "Keperluan": {
+    "limit": 200,
+    "type": "need",
+    "description": "Necessities (toiletries, phone bill)"
+  },
+  "Shopping": {
+    "limit": 150,
+    "type": "want",
+    "description": "Clothing and gadgets"
+  }
+}
