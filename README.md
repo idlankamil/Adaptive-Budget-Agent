@@ -1,4 +1,5 @@
 💰 Adaptive Budget Optimization Agent
+
 An intelligent budget monitoring agent built for Malaysian university students using LangGraph and a hybrid BDI architecture. Reads your spending transactions, detects overspending, and automatically reallocates budget from wants to needs to keep you on track.
 
 ✨ Technologies
